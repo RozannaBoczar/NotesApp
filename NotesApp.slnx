@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="../NotesApp.Application/NotesApp.Application.csproj" />
+  <Project Path="../NotesApp.Domain/NotesApp.Domain.csproj" />
+  <Project Path="../NotesApp.Infrastructure/NotesApp.Infrastructure.csproj" />
+  <Project Path="../NotesApp.IntegrationTests/NotesApp.IntegrationTests.csproj" />
+  <Project Path="../NotesApp.UnitTests/NotesApp.UnitTests.csproj" />
+  <Project Path="NotesApp.csproj" />
+</Solution>
